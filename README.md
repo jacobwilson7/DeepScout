@@ -1,4 +1,4 @@
-# DeepScout
+# 💦 DeepScout
 
 [![CI](https://github.com/francescoveryra-dot/deepscout/actions/workflows/ci.yml/badge.svg)](https://github.com/francescoveryra-dot/deepscout/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/francescoveryra-dot/deepscout/actions/workflows/codeql.yml/badge.svg)](https://github.com/francescoveryra-dot/deepscout/actions/workflows/codeql.yml)
